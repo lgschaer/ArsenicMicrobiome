@@ -1,0 +1,416 @@
+﻿Sample_ID,Timepoint,Fern type ,Arsenic concentration,Sample type ,Replicates 
+T0_PVshoot_50_3,T0,PV ,50,shoot,3
+T0_PVshoot_50_4,T0,PV ,50,shoot,4
+T0_PEshoot_noAs_3,T0,PE,0,shoot,3
+T0_PVroot_50 ppm_4,T0,PV ,50,root,4
+T0_PVroot_50 ppm_3,T0,PV ,50,root,3
+T0_PVshoot_noAs_1,T0,PV ,0,shoot,1
+T0_PVshoot_noAs_2,T0,PV ,0,shoot,2
+T0_PVshoot_noAs_3,T0,PV ,0,shoot,3
+T0_PVroot_noAs_2,T0,PV ,0,root,2
+T0_PEroot_noAs_3,T0,PE,0,root,3
+T0_PEroot_noAs_2,T0,PE,0,root,2
+T0_PEsoilR_noAs_1,T0,PE,0,soilR,1
+T0_PEsoilR_noAs_2,T0,PE,0,soilR,2
+T0_PEsoilR_noAs_3,T0,PE,0,soilR,3
+T0_PEsoilB_noAs_2,T0,PE,0,soilB,2
+T0_PEsoilB_noAs_3,T0,PE,0,soilB,3
+T0_PVsoilB_50_1,T0,PV ,50,soilB,1
+T0_PVsoilB_50_2,T0,PV ,50,soilB,2
+T0_PVsoilB_50_3,T0,PV ,50,soilB,3
+T0_Soil_50_1,T0,,50,soil,1
+T0_Soil_50_2,T0,,50,soil,2
+T0_Soil_50_3,T0,,50,soil,3
+T0_Soil_25_1,T0,,25,soil,1
+T0_Soil_25_2,T0,,25,soil,2
+T0_Soil_25_3,T0,,25,soil,3
+T0_PVsoilB_25_4,T0,PV ,25,soilB,4
+T0_PVsoilB_25_5,T0,PV ,25,soilB,5
+T0_PVsoilB_25_6,T0,PV ,25,soilB,6
+T0_PVsoilR_25_1,T0,PV ,25,soilR,1
+T0_PVsoilR_25_3,T0,PV ,25,soilR,3
+T0_PVsoilR_25_6,T0,PV ,25,soilR,6
+T0_PVsoilR_50_3,T0,PV ,50,soilR,3
+T0_PVsoilR_50_4,T0,PV ,50,soilR,4
+T0_PVsoilR_50_5,T0,PV ,50,soilR,5
+T0_PVsoilR_noAs_1,T0,PV ,0,soilR,1
+T0_PVsoilR_noAs_2,T0,PV ,0,soilR,2
+T0_PVsoilR_noAs_3,T0,PV ,0,soilR,3
+T0_PEsoilB_25_1,T0,PE,25,soilB,1
+T0_PEsoilB_25_2,T0,PE,25,soilB,2
+T0_PEsoilB_25_4,T0,PE,25,soilB,4
+T0_PEshoot_50_1,T0,PE,50,shoot,1
+T0_PEroot_50_4,T0,PE,50,root,4
+T0_PEroot_50_5,T0,PE,50,root,5
+T0_PVshoot_25_2,T0,PV ,25,shoot,2
+T0_PVshoot_25_3,T0,PV ,25,shoot,3
+T0_PVshoot_25_4,T0,PV ,25,shoot,4
+T0_PVshoot_50_1,T0,PV ,50,shoot,1
+T0_PVshoot_50_2,T0,PV ,50,shoot,2
+T0_PVshoot_50_5,T0,PV ,50,shoot,5
+T0_PVshoot_50_6,T0,PV ,50,shoot,6
+T0_PEshoot_25_1,T0,PE,25,shoot,1
+T0_PEshoot_25_2,T0,PE,25,shoot,2
+T0_PEshoot_25_3,T0,PE,25,shoot,3
+T0_PEshoot_50_2,T0,PE,50,shoot,2
+T0_PEshoot_50_5,T0,PE,50,shoot,5
+T0_PEshoot_50_6,T0,PE,50,shoot,6
+T0_PEshoot_noAs_1,T0,PE,0,shoot,1
+T0_PEshoot_noAs_2,T0,PE,0,shoot,2
+T0_PEshoot_noAs_0,T0,PE,0,shoot,0
+T0_PVroot_25_2,T0,PV ,25,root,2
+T0_PVroot_25_3,T0,PV ,25,root,3
+T0_PVroot_25_4,T0,PV ,25,root,4
+T0_PEroot_25_1,T0,PE,25,root,1
+T0_PEroot_25_3,T0,PE,25,root,3
+T0_PEroot_25_6,T0,PE,25,root,6
+T0_PEroot_50_2,T0,PE,50,root,2
+T0_PEroot_50_6,T0,PE,50,root,6
+T0_PVroot_noAs_1,T0,PV ,0,root,1
+T0_PVroot_noAs_3,T0,PV ,0,root,3
+T0_PEroot_noAs_1,T0,PE,0,root,1
+T0_PVroot_50_1,T0,PV ,50,root,1
+T0_PVroot_50_4,T0,PV ,50,root,4
+T0_PVroot_50_5,T0,PV ,50,root,5
+T0_PVshoot_25_6,T0,PV ,25,shoot,6
+T0_PEshoot_25_5,T0,PE,25,shoot,5
+T0_PEsoilB_25_5,T0,PE,25,soilB,5
+T0_PVsoilB_noAs_1,T0,PV ,0,soilB,1
+T0_PVsoilB_noAs_2,T0,PV ,0,soilB,2
+T0_PVsoilB_noAs_3,T0,PV ,0,soilB,3
+T0_PEsoilR_25_1,T0,PE,25,soilR,1
+T0_PEsoilR_25_2,T0,PE,25,soilR,2
+T0_PEsoilR_25_6,T0,PE,25,soilR,6
+T0_PEsoilR_50_3,T0,PE,50,soilR,3
+T0_PEsoilR_50_4,T0,PE,50,soilR,4
+T0_PEsoilR_50_5,T0,PE,50,soilR,5
+T0_PEsoilB_50_1,T0,PE,50,soilB,1
+T0_PEsoilB_50_3,T0,PE,50,soilB,3
+T0_PEsoilB_50_6,T0,PE,50,soilB,6
+T6_PEsoilR_noAs_1,T6,PE,0,soilR,1
+T6_PEsoilR_noAs_3,T6,PE,0,soilR,3
+T6_NC_1,T6,,NC,soil,1
+T6_NC_2,T6,,NC,soil,2
+T6_NC_3,T6,,NC,soil,3
+Blank_1,,,,,
+Blank_2,,,,,
+Blank_3,,,,,
+T6_PVsoilR_noAs_1,T6,PV ,0,soilR,1
+T6_PVsoilR_noAs_2,T6,PV ,0,soilR,2
+T6_PVsoilR_noAs_3,T6,PV ,0,soilR,3
+T6_Soil_50_1,T6,,50,soil,1
+T6_Soil_50_2,T6,,50,soil,2
+T6_Soil_50_3,T6,,50,soil,3
+T6_Soil_25_1,T6,,25,soil,1
+T6_Soil_25_2,T6,,25,soil,2
+T6_Soil_25_3,T6,,25,soil,3
+T6_PEsoilB_noAs_1,T6,PE,0,soilB,1
+T6_PEsoilB_noAs_2,T6,PE,0,soilB,2
+T6_PEsoilB_noAs_3,T6,PE,0,soilB,3
+T6_PVsoilB_noAs_1,T6,PV ,0,soilB,1
+T6_PVsoilB_noAs_2,T6,PV ,0,soilB,2
+T6_PVsoilB_noAs_3,T6,PV ,0,soilB,3
+T6_PEsoilR_25_1,T6,PE,25,soilR,1
+T6_PEsoilR_25_3,T6,PE,25,soilR,3
+T6_PEsoilR_25_6,T6,PE,25,soilR,6
+T6_PVsoilR_25_2,T6,PV ,25,soilR,2
+T6_PVsoilR_25_4,T6,PV ,25,soilR,4
+T6_PVsoilR_25_5,T6,PV ,25,soilR,5
+T6_PVsoilR_50_3,T6,PV ,50,soilR,3
+T6_PVsoilR_50_5,T6,PV ,50,soilR,5
+T6_PVsoilR_50_6,T6,PV ,50,soilR,6
+T6_PEsoilR_50_1,T6,PE,50,soilR,1
+T6_PEsoilR_50_3,T6,PE,50,soilR,3
+T6_PEsoilR_50_6,T6,PE,50,soilR,6
+T6_PVsoilB_50_1,T6,PV ,50,soilB,1
+T6_PVsoilB_50_4,T6,PV ,50,soilB,4
+T6_PVsoilB_50_6,T6,PV ,50,soilB,6
+T6_PVsoilB_25_2,T6,PV ,25,soilB,2
+T6_PVsoilB_25_3,T6,PV ,25,soilB,3
+T6_PVsoilB_25_5,T6,PV ,25,soilB,5
+T6_PEsoilB_25_2,T6,PE,25,soilB,2
+T6_PEsoilB_25_3,T6,PE,25,soilB,3
+T6_PEsoilB_25_4,T6,PE,25,soilB,4
+T6_PEsoilB_50_1,T6,PE,50,soilB,1
+T6_PEsoilB_50_3,T6,PE,50,soilB,3
+T6_PEsoilB_50_6,T6,PE,50,soilB,6
+T6_PVshoot_noAs_1,T6,PV ,0,shoot,1
+T6_PVshoot_noAs_2,T6,PV ,0,shoot,2
+T6_PVshoot_noAs_3,T6,PV ,0,shoot,3
+T6_PVroot_25_2,T6,PV ,25,root,2
+T6_PVroot_25_4,T6,PV ,25,root,4
+T6_PVroot_25_5,T6,PV ,25,root,5
+T6_PVroot_50_2,T6,PV ,50,root,2
+T6_PVroot_50_3,T6,PV ,50,root,3
+T6_PVroot_50_4,T6,PV ,50,root,4
+T6_PEroot_25_2,T6,PE,25,root,2
+T6_PEroot_25_4,T6,PE,25,root,4
+T6_PEroot_25_5,T6,PE,25,root,5
+T6_PEroot_50_1,T6,PE,50,root,1
+T6_PEroot_50_5,T6,PE,50,root,5
+T6_PEroot_50_6,T6,PE,50,root,6
+T6_PVroot_noAs_1,T6,PV ,0,root,1
+T6_PVroot_noAs_2,T6,PV ,0,root,2
+T6_PVroot_noAs_3,T6,PV ,0,root,3
+T6_PEroot_noAs_1,T6,PE,0,root,1
+T6_PEroot_noAs_2,T6,PE,0,root,2
+T6_PEroot_noAs_3,T6,PE,0,root,3
+T6_PEshoot_noAs_1,T6,PE,0,shoot,1
+T6_PEshoot_noAs_2,T6,PE,0,shoot,2
+T6_PEshoot_noAs_3,T6,PE,0,shoot,3
+T6_PVshoot_25_1,T6,PV ,25,shoot,1
+T6_PVshoot_25_2,T6,PV ,25,shoot,2
+T6_PVshoot_25_3,T6,PV ,25,shoot,3
+T6_PVshoot_50_1,T6,PV ,50,shoot,1
+T6_PVshoot_50_2,T6,PV ,50,shoot,2
+T6_PVshoot_50_4,T6,PV ,50,shoot,4
+T6_PEshoot_25_1,T6,PE,25,shoot,1
+T6_PEshoot_25_2,T6,PE,25,shoot,2
+T6_PEshoot_25_3,T6,PE,25,shoot,3
+T6_PEshoot_50_3,T6,PE,50,shoot,3
+T6_PEshoot_50_4,T6,PE,50,shoot,4
+T6_PEshoot_50_6,T6,PE,50,shoot,6
+T7_PVshoot_25_1,T7,PV ,25,shoot,1
+T7_PVshoot_25_2,T7,PV ,25,shoot,2
+T7_PVshoot_25_3,T7,PV ,25,shoot,3
+T7_PVshoot_25_4,T7,PV ,25,shoot,4
+T7_PVshoot_25_5,T7,PV ,25,shoot,5
+T7_PVshoot_25_6,T7,PV ,25,shoot,6
+T7_PVshoot_50_1,T7,PV ,50,shoot,1
+T7_PVshoot_50_2,T7,PV ,50,shoot,2
+T7_PVshoot_50_3,T7,PV ,50,shoot,3
+T7_PVshoot_50_4,T7,PV ,50,shoot,4
+T7_PVshoot_50_5,T7,PV ,50,shoot,5
+T7_PVshoot_50_6,T7,PV ,50,shoot,6
+T7_PEshoot_25_1,T7,PE,25,shoot,1
+T7_PEshoot_25_2,T7,PE,25,shoot,2
+T7_PEshoot_25_3,T7,PE,25,shoot,3
+T7_PEshoot_25_4,T7,PE,25,shoot,4
+T7_PEshoot_25_5,T7,PE,25,shoot,5
+T7_PEshoot_25_6,T7,PE,25,shoot,6
+Blank_4,,,,,
+Blank_5,,,,,
+Blank_6,,,,,
+T7_PEshoot_50_1,T7,PE,50,shoot,1
+T7_PEshoot_50_2,T7,PE,50,shoot,2
+T7_PEshoot_50_3,T7,PE,50,shoot,3
+T7_PEshoot_50_4,T7,PE,50,shoot,4
+T7_PEshoot_50_5,T7,PE,50,shoot,5
+T7_PEshoot_50_6,T7,PE,50,shoot,6
+T7_PVroot_25_1,T7,PV ,25,root,1
+T7_PVroot_25_2,T7,PV ,25,root,2
+T7_PVroot_25_3,T7,PV ,25,root,3
+T7_PVroot_25_4,T7,PV ,25,root,4
+T7_PVroot_25_5,T7,PV ,25,root,5
+T7_PVroot_25_6,T7,PV ,25,root,6
+T7_PVroot_50_1,T7,PV ,50,root,1
+T7_PVroot_50_2,T7,PV ,50,root,2
+T7_PVroot_50_3,T7,PV ,50,root,3
+T7_PVroot_50_4,T7,PV ,50,root,4
+T7_PVroot_50_5,T7,PV ,50,root,5
+T7_PVroot_50_6,T7,PV ,50,root,6
+T7_PEroot_25_1,T7,PE,25,root,1
+T7_PEroot_25_2,T7,PE,25,root,2
+T7_PEroot_25_3,T7,PE,25,root,3
+T7_PEroot_25_4,T7,PE,25,root,4
+T7_PEroot_25_5,T7,PE,25,root,5
+T7_PEroot_25_6,T7,PE,25,root,6
+T7_PEroot_50_1,T7,PE,50,root,1
+T7_PEroot_50_2,T7,PE,50,root,2
+T7_PEroot_50_3,T7,PE,50,root,3
+T7_PEroot_50_4,T7,PE,50,root,4
+T7_PEroot_50_5,T7,PE,50,root,5
+T7_PEroot_50_6,T7,PE,50,root,6
+T7_PVshoot_noAs_1,T7,PV ,0,shoot,1
+T7_PVshoot_noAs_2,T7,PV ,0,shoot,2
+T7_PVshoot_noAs_3,T7,PV ,0,shoot,3
+T7_PEshoot_noAs_1,T7,PE,0,shoot,1
+T7_PEshoot_noAs_2,T7,PE,0,shoot,2
+T7_PEshoot_noAs_3,T7,PE,0,shoot,3
+T12_PVshoot_noAs_1,T12,PV ,0,shoot,1
+T12_PVshoot_noAs_2,T12,PV ,0,shoot,2
+T12_PVshoot_noAs_3,T12,PV ,0,shoot,3
+T12_PEshoot_noAs_1,T12,PE,0,shoot,1
+T12_PEshoot_noAs_2,T12,PE,0,shoot,2
+T12_PEshoot_noAs_3,T12,PE,0,shoot,3
+T7_PVroot_noAs_1,T7,PV ,0,root,1
+T7_PVroot_noAs_2,T7,PV ,0,root,2
+T7_PVroot_noAs_3,T7,PV ,0,root,3
+T7_PEroot_noAs_1,T7,PE,0,root,1
+T7_PEroot_noAs_2,T7,PE,0,root,2
+T7_PEroot_noAs_3,T7,PE,0,root,3
+T12_PVroot_noAs_1,T12,PV ,0,root,1
+T12_PVroot_noAs_2,T12,PV ,0,root,2
+T12_PVroot_noAs_3,T12,PV ,0,root,3
+T12_PEroot_noAs_1,T12,PE,0,root,1
+T12_PEroot_noAs_2,T12,PE,0,root,2
+T12_PEroot_noAs_3,T12,PE,0,root,3
+T12_PVshoot_25_1,T12,PV ,25,shoot,1
+T12_PVshoot_25_2,T12,PV ,25,shoot,2
+T12_PVshoot_25_3,T12,PV ,25,shoot,3
+T12_PVshoot_25_4,T12,PV ,25,shoot,4
+T12_PVshoot_25_5,T12,PV ,25,shoot,5
+T12_PVshoot_25_6,T12,PV ,25,shoot,6
+T12_PVshoot_50_1,T12,PV ,50,shoot,1
+T12_PVshoot_50_2,T12,PV ,50,shoot,2
+T12_PVshoot_50_3,T12,PV ,50,shoot,3
+T12_PVshoot_50_4,T12,PV ,50,shoot,4
+T12_PVshoot_50_5,T12,PV ,50,shoot,5
+T12_PVshoot_50_6,T12,PV ,50,shoot,6
+T12_PVroot_25_1,T12,PV ,25,root,1
+T12_PVroot_25_2,T12,PV ,25,root,2
+T12_PVroot_25_3,T12,PV ,25,root,3
+T12_PVroot_25_4,T12,PV ,25,root,4
+T12_PVroot_25_5,T12,PV ,25,root,5
+T12_PVroot_25_6,T12,PV ,25,root,6
+T12_PVroot_50_1,T12,PV ,50,root,1
+T12_PVroot_50_2,T12,PV ,50,root,2
+T12_PVroot_50_3,T12,PV ,50,root,3
+T12_PVroot_50_4,T12,PV ,50,root,4
+T12_PVroot_50_5,T12,PV ,50,root,5
+T12_PVroot_50_6,T12,PV ,50,root,6
+T7_PVsoilR_25_1,T7,PV ,25,soilR,1
+T7_PVsoilR_25_2,T7,PV ,25,soilR,2
+T7_PVsoilR_25_3,T7,PV ,25,soilR,3
+T7_PVsoilR_25_4,T7,PV ,25,soilR,4
+T7_PVsoilR_25_5,T7,PV ,25,soilR,5
+T7_PVsoilR_25_6,T7,PV ,25,soilR,6
+T7_PVsoilR_50_1,T7,PV ,50,soilR,1
+T7_PVsoilR_50_2,T7,PV ,50,soilR,2
+T7_PVsoilR_50_3,T7,PV ,50,soilR,3
+T7_PVsoilR_50_4,T7,PV ,50,soilR,4
+T7_PVsoilR_50_5,T7,PV ,50,soilR,5
+T7_PVsoilR_50_6,T7,PV ,50,soilR,6
+T7_PEsoilR_25_1,T7,PE,25,soilR,1
+T7_PEsoilR_25_2,T7,PE,25,soilR,2
+T7_PEsoilR_25_3,T7,PE,25,soilR,3
+Blank_7,,,,,
+Blank_8,,,,,
+Blank_9,,,,,
+T7_PEsoilR_25_4,T7,PE,25,soilR,4
+T7_PEsoilR_25_5,T7,PE,25,soilR,5
+T7_PEsoilR_25_6,T7,PE,25,soilR,6
+T7_PVsoilR_noAs_1,T7,PV ,0,soilR,1
+T7_PVsoilR_noAs_2,T7,PV ,0,soilR,2
+T7_PVsoilR_noAs_3,T7,PV ,0,soilR,3
+T7_PEsoilR_noAs_1,T7,PE,0,soilR,1
+T7_PEsoilR_noAs_2,T7,PE,0,soilR,2
+T7_PEsoilR_noAs_3,T7,PE,0,soilR,3
+T7_PVsoilB_25_1,T7,PV ,25,soilB,1
+T7_PVsoilB_25_2,T7,PV ,25,soilB,2
+T7_PVsoilB_25_3,T7,PV ,25,soilB,3
+T7_PVsoilB_25_4,T7,PV ,25,soilB,4
+T7_PVsoilB_25_5,T7,PV ,25,soilB,5
+T7_PVsoilB_25_6,T7,PV ,25,soilB,6
+T7_PVsoilB_50_1,T7,PV ,50,soilB,1
+T7_PVsoilB_50_2,T7,PV ,50,soilB,2
+T7_PVsoilB_50_3,T7,PV ,50,soilB,3
+T7_PVsoilB_50_4,T7,PV ,50,soilB,4
+T7_PVsoilB_50_5,T7,PV ,50,soilB,5
+T7_PVsoilB_50_6,T7,PV ,50,soilB,6
+T7_PEsoilR_50_1,T7,PE,50,soilR,1
+T7_PEsoilR_50_2,T7,PE,50,soilR,2
+T7_PEsoilR_50_3,T7,PE,50,soilR,3
+T7_PEsoilR_50_4,T7,PE,50,soilR,4
+T7_PEsoilR_50_5,T7,PE,50,soilR,5
+T7_PEsoilR_50_6,T7,PE,50,soilR,6
+T7_PEsoilB_25_1,T7,PE,25,soilB,1
+T7_PEsoilB_25_2,T7,PE,25,soilB,2
+T7_PEsoilB_25_3,T7,PE,25,soilB,3
+T7_PEsoilB_25_4,T7,PE,25,soilB,4
+T7_PEsoilB_25_5,T7,PE,25,soilB,5
+T7_PEsoilB_25_6,T7,PE,25,soilB,6
+T7_PEsoilB_50_1,T7,PE,50,soilB,1
+T7_PEsoilB_50_2,T7,PE,50,soilB,2
+T7_PEsoilB_50_3,T7,PE,50,soilB,3
+T7_PEsoilB_50_4,T7,PE,50,soilB,4
+T7_PEsoilB_50_5,T7,PE,50,soilB,5
+T7_PEsoilB_50_6,T7,PE,50,soilB,6
+T7_PVsoilB_noAs_1,T7,PV ,0,soilB,1
+T7_PVsoilB_noAs_2,T7,PV ,0,soilB,2
+T7_PVsoilB_noAs_3,T7,PV ,0,soilB,3
+T7_PEsoilB_noAs_1,T7,PE,0,soilB,1
+T7_PEsoilB_noAs_2,T7,PE,0,soilB,2
+T7_PEsoilB_noAs_3,T7,PE,0,soilB,3
+T7_Soil_25_1,T7,,25,soil,1
+T7_Soil_25_2,T7,,25,soil,2
+T7_Soil_25_3,T7,,25,soil,3
+T7_Soil_50_1,T7,,50,soil,1
+T7_Soil_50_2,T7,,50,soil,2
+T7_Soil_50_3,T7,,50,soil,3
+T7_NC_1,T7,,NC,soil,1
+T7_NC_2,T7,,NC,soil,2
+T7_NC_3,T7,,NC,soil,3
+T12_PVsoilR_25_1,T12,PV ,25,soilR,1
+T12_PVsoilR_25_2,T12,PV ,25,soilR,2
+T12_PVsoilR_25_3,T12,PV ,25,soilR,3
+T12_PVsoilR_25_4,T12,PV ,25,soilR,4
+T12_PVsoilR_25_5,T12,PV ,25,soilR,5
+T12_PVsoilR_25_6,T12,PV ,25,soilR,6
+T12_PVsoilR_50_1,T12,PV ,50,soilR,1
+T12_PVsoilR_50_2,T12,PV ,50,soilR,2
+T12_PVsoilR_50_3,T12,PV ,50,soilR,3
+T12_PVsoilR_50_4,T12,PV ,50,soilR,4
+T12_PVsoilR_50_5,T12,PV ,50,soilR,5
+T12_PVsoilR_50_6,T12,PV ,50,soilR,6
+T12_PVsoilR_noAs_1,T12,PV ,0,soilR,1
+T12_PVsoilR_noAs_2,T12,PV ,0,soilR,2
+T12_PVsoilR_noAs_3,T12,PV ,0,soilR,3
+T12_PEsoilR_noAs_1,T12,PE,0,soilR,1
+T12_PEsoilR_noAs_2,T12,PE,0,soilR,2
+T12_PEsoilR_noAs_3,T12,PE,0,soilR,3
+T12_PVsoilB_25_1,T12,PV ,25,soilB,1
+T12_PVsoilB_25_2,T12,PV ,25,soilB,2
+T12_PVsoilB_25_3,T12,PV ,25,soilB,3
+T12_PVsoilB_25_4,T12,PV ,25,soilB,4
+T12_PVsoilB_25_5,T12,PV ,25,soilB,5
+T12_PVsoilB_25_6,T12,PV ,25,soilB,6
+T12_PVsoilB_50_1,T12,PV ,50,soilB,1
+T12_PVsoilB_50_2,T12,PV ,50,soilB,2
+T12_PVsoilB_50_3,T12,PV ,50,soilB,3
+T12_PVsoilB_50_4,T12,PV ,50,soilB,4
+T12_PVsoilB_50_5,T12,PV ,50,soilB,5
+T12_PVsoilB_50_6,T12,PV ,50,soilB,6
+T12_PEsoilB_25_1,T12,PE,25,soilB,1
+T12_PEsoilB_25_2,T12,PE,25,soilB,2
+T12_PEsoilB_25_3,T12,PE,25,soilB,3
+T12_PEsoilB_25_4,T12,PE,25,soilB,4
+T12_PEsoilB_25_5,T12,PE,25,soilB,5
+T12_PEsoilB_25_6,T12,PE,25,soilB,6
+T12_PEsoilB_50_1,T12,PE,50,soilB,1
+T12_PEsoilB_50_2,T12,PE,50,soilB,2
+T12_PEsoilB_50_3,T12,PE,50,soilB,3
+Blank_10,,,,,
+Blank_11,,,,,
+Blank_12,,,,,
+T12_PEsoilB_50_4,T12,PE,50,soilB,4
+T12_PEsoilB_50_5,T12,PE,50,soilB,5
+T12_PEsoilB_50_6,T12,PE,50,soilB,6
+T12_PVsoilB_noAs_1,T12,PV ,0,soilB,1
+T12_PVsoilB_noAs_2,T12,PV ,0,soilB,2
+T12_PVsoilB_noAs_3,T12,PV ,0,soilB,3
+T12_PEsoilB_noAs_1,T12,PE,0,soilB,1
+T12_PEsoilB_noAs_2,T12,PE,0,soilB,2
+T12_PEsoilB_noAs_3,T12,PE,0,soilB,3
+T12_Soil_25_1,T12,,25,soil,1
+T12_Soil_25_2,T12,,25,soil,2
+T12_Soil_25_3,T12,,25,soil,3
+T12_Soil_50_1,T12,,50,soil,1
+T12_Soil_50_2,T12,,50,soil,2
+T12_Soil_50_3,T12,,50,soil,3
+T12_NC_1,T12,,NC,soil,1
+T12_NC_2,T12,,NC,soil,2
+T12_NC_3,T12,,NC,soil,3
+Blank_13,,,,,
+Blank_14,,,,,
+Blank_15,,,,,
+T0_Soil_25_3repeat,T0,,25,soil,4
+T0_PVsoilR_25_6repeat,T0,PV ,25,soilR,7
+T0_PEsoilB_25_5repeat,T0,PE,25,soilB,7
+T0_PEsoilR_25_6repeat,T0,PE,25,soilR,8
+T0_PEsoilB_50_3repeat,T0,PE,50,soilB,7
+T12_Soil_25_3repeat,T12,,25,soil,4
+T12_Soil_50_3repeat,T12,,50,soil,4
+T12_NC_1repeat,T12,,NC,soil,4
+T12_NC_2repeat,T12,,NC,soil,5
+T12_NC_3repeat,T12,,NC,soil,6
