@@ -1,0 +1,75 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2639
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww15380\viewh12160\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 #Sourcetracker analysis for the Arsenic Microbiome Project\
+#7/5/23 Laura Schaerer\
+\
+###################################################################\
+SOURCETRACKER\
+\
+\
+### INSTALLATION\
+## with conda take 2.  THIS IS WHAT WORKED! Feature assignments working now.\
+\
+conda create -n sourcetracker2\
+\
+conda install -n sourcetracker2 -c biocore python numpy scipy scikit-bio biom-format h5py hdf5 seaborn\
+\
+conda activate sourcetracker2 \
+\
+pip install https://github.com/biota/sourcetracker2/archive/master.zip\
+\
+\
+### MAKING THE INPUTS\
+\
+#map.txt was made in R with the script \
+arsenic_sourcetracker.R\
+\
+#To make the biom table, install qiime1\
+\
+conda create -n qiime1 python=2.7 qiime  mock nose -c bioconda\
+conda install psutil\
+\
+#convert otu.txt (transposed out table saved as text table made in R) to biom format\
+echo -n "#OTU Table" | cat - t_count_table.txt > biom-table.txt\
+biom convert -i biom-table.txt -o ASV.biom --to-json --table-type="OTU table"\
+\
+#check table, should list sample IDs, not ASVs\
+biom summarize-table -i ASV.biom -o summary.txt\
+\
+\
+#### RUNNING THE ANALYSIS\
+\
+## tiny test with test data set\
+\
+sourcetracker2 -i otu_table.biom -m map.txt --output_dir tiny_test_out3 --jobs 16 --per_sink_feature_assignments \
+\
+\
+## run the analysis\
+sourcetracker2 -i ASV.biom -m soilarsenic.st.txt -o sourcetracker_out2 --jobs 16 --sink_rarefaction_depth 1000 --source_rarefaction_depth 1000 --per_sink_feature_assignments\
+\
+\
+###########################################################################3\
+PICRUST\
+Adapted from here: https://github.com/picrust/picrust2/wiki/Full-pipeline-script\
+\
+\
+### INSTALLATION\
+conda install -f picrust2-env.yaml\
+conda activate picrust2\
+pip3 install --no-deps --editable\
+\
+\
+### MAKING THE INPUTS\
+arsenic_picrust_inputs.R in MWarke_temp\
+\
+Using t_count_table.txt from SourceTracker analysis\
+\
+\
+### RUN THE ANALYSIS\
+picrust2_pipeline.py -s arsenic.fna -i t_count_table.txt -o picrust2_out_07192023 -p 1\
+}
